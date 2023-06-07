@@ -1,0 +1,1 @@
+{'name': 'Kepler-1767 b', 'distance': '2676.0', 'stellar_magnitude': '16.206', 'planet_type': 'Neptune-like', 'discovery_year': '2021', 'mass_multiplier': '9.34', 'mass_wrt': 'Earth', 'radius_multiplier': '0.269', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.2873', 'orbital_period': '0.16344969', 'eccentricity': '0.0', 'detection_method': 'Transit'}

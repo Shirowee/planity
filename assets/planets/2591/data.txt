@@ -1,0 +1,1 @@
+{'name': 'Kepler-1593 b', 'distance': '2082.0', 'stellar_magnitude': '16.19', 'planet_type': 'Neptune-like', 'discovery_year': '2016', 'mass_multiplier': '10.2', 'mass_wrt': 'Earth', 'radius_multiplier': '0.283', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.546', 'orbital_period': '0.47775495', 'eccentricity': '0.0', 'detection_method': 'Transit'}

@@ -1,0 +1,1 @@
+{'name': 'K2-336 b', 'distance': '781.0', 'stellar_magnitude': '12.803', 'planet_type': 'Super Earth', 'discovery_year': '2016', 'mass_multiplier': '1.98', 'mass_wrt': 'Earth', 'radius_multiplier': '1.22', 'radius_wrt': 'Earth', 'orbital_radius': '', 'orbital_period': '0.05804244', 'eccentricity': '0.0', 'detection_method': 'Transit'}

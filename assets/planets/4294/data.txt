@@ -1,0 +1,1 @@
+{'name': 'Kepler-85 e', 'distance': '2496.0', 'stellar_magnitude': '14.89', 'planet_type': 'Super Earth', 'discovery_year': '2014', 'mass_multiplier': '0.6', 'mass_wrt': 'Earth', 'radius_multiplier': '1.27', 'radius_wrt': 'Earth', 'orbital_radius': '0.163', 'orbital_period': '0.068993844', 'eccentricity': '0.0', 'detection_method': 'Transit'}

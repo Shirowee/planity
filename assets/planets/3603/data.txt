@@ -1,0 +1,1 @@
+{'name': 'Kepler-381 c', 'distance': '872.0', 'stellar_magnitude': '10.47', 'planet_type': 'Super Earth', 'discovery_year': '2014', 'mass_multiplier': '1.46', 'mass_wrt': 'Earth', 'radius_multiplier': '1.12', 'radius_wrt': 'Earth', 'orbital_radius': '0.117', 'orbital_period': '0.0366872', 'eccentricity': '0.0', 'detection_method': 'Transit'}

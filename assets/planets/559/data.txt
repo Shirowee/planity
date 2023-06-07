@@ -1,0 +1,1 @@
+{'name': 'HD 118203 b', 'distance': '301.0', 'stellar_magnitude': '8.05', 'planet_type': 'Gas Giant', 'discovery_year': '2005', 'mass_multiplier': '2.79', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.172', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.07', 'orbital_period': '0.01670089', 'eccentricity': '0.31', 'detection_method': 'Radial Velocity'}

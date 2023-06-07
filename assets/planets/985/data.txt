@@ -1,0 +1,1 @@
+{'name': 'HD 33142 c', 'distance': '396.0', 'stellar_magnitude': '7.96', 'planet_type': 'Gas Giant', 'discovery_year': '2018', 'mass_multiplier': '0.89', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.24', 'radius_wrt': 'Jupiter', 'orbital_radius': '1.955', 'orbital_period': '2.2', 'eccentricity': '0.08', 'detection_method': 'Radial Velocity'}

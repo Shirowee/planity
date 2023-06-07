@@ -1,0 +1,1 @@
+{'name': 'HD 190647 b', 'distance': '178.0', 'stellar_magnitude': '7.78', 'planet_type': 'Gas Giant', 'discovery_year': '2007', 'mass_multiplier': '1.985', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.19', 'radius_wrt': 'Jupiter', 'orbital_radius': '2.231', 'orbital_period': '3.2', 'eccentricity': '0.22', 'detection_method': 'Radial Velocity'}

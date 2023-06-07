@@ -1,0 +1,1 @@
+{'name': 'Kepler-326 c', 'distance': '1591.0', 'stellar_magnitude': '13.734', 'planet_type': 'Super Earth', 'discovery_year': '2014', 'mass_multiplier': '17.4', 'mass_wrt': 'Earth', 'radius_multiplier': '1.4', 'radius_wrt': 'Earth', 'orbital_radius': '0.051', 'orbital_period': '0.012594113', 'eccentricity': '0.0', 'detection_method': 'Transit'}

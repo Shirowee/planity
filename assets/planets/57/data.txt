@@ -1,0 +1,1 @@
+{'name': 'BD-11 4672 b', 'distance': '89.0', 'stellar_magnitude': '10.03', 'planet_type': 'Gas Giant', 'discovery_year': '2014', 'mass_multiplier': '0.65', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.25', 'radius_wrt': 'Jupiter', 'orbital_radius': '2.36', 'orbital_period': '4.5', 'eccentricity': '0.05', 'detection_method': 'Radial Velocity'}

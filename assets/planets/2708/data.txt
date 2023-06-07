@@ -1,0 +1,1 @@
+{'name': 'Kepler-1684 b', 'distance': '2029.0', 'stellar_magnitude': '15.951', 'planet_type': 'Neptune-like', 'discovery_year': '2020', 'mass_multiplier': '8.6', 'mass_wrt': 'Earth', 'radius_multiplier': '0.256', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.2253', 'orbital_period': '0.13059549', 'eccentricity': '0.0', 'detection_method': 'Transit'}

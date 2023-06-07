@@ -1,0 +1,1 @@
+{'name': 'Kepler-450 d', 'distance': '1487.0', 'stellar_magnitude': '11.991', 'planet_type': 'Super Earth', 'discovery_year': '2015', 'mass_multiplier': '17.6', 'mass_wrt': 'Earth', 'radius_multiplier': '0.837', 'radius_wrt': 'Earth', 'orbital_radius': '0.082', 'orbital_period': '0.02053388', 'eccentricity': '0.14', 'detection_method': 'Transit'}

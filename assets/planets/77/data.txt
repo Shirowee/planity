@@ -1,0 +1,1 @@
+{'name': 'Beta Pictoris c', 'distance': '64.0', 'stellar_magnitude': '3.85', 'planet_type': 'Gas Giant', 'discovery_year': '2019', 'mass_multiplier': '10.14112', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.11', 'radius_wrt': 'Jupiter', 'orbital_radius': '2.680483', 'orbital_period': '3.3', 'eccentricity': '0.31', 'detection_method': 'Radial Velocity'}

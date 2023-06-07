@@ -1,0 +1,1 @@
+{'name': 'Kepler-22 b', 'distance': '635.0', 'stellar_magnitude': '11.751', 'planet_type': 'Super Earth', 'discovery_year': '2011', 'mass_multiplier': '36.0', 'mass_wrt': 'Earth', 'radius_multiplier': '0.212', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.849', 'orbital_period': '0.7937029', 'eccentricity': '0.0', 'detection_method': 'Transit'}

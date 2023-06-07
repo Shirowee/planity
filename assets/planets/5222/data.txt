@@ -1,0 +1,1 @@
+{'name': 'WASP-97 b', 'distance': '493.0', 'stellar_magnitude': '10.57', 'planet_type': 'Gas Giant', 'discovery_year': '2014', 'mass_multiplier': '1.36', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.14', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.03303', 'orbital_period': '0.0057494864', 'eccentricity': '0.0', 'detection_method': 'Transit'}

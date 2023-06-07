@@ -1,0 +1,1 @@
+{'name': 'HD 114082 b', 'distance': '311.0', 'stellar_magnitude': '8.2', 'planet_type': 'Gas Giant', 'discovery_year': '2022', 'mass_multiplier': '8.0', 'mass_wrt': 'Jupiter', 'radius_multiplier': '1.0', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.5109', 'orbital_period': '0.30061603', 'eccentricity': '0.4', 'detection_method': 'Radial Velocity'}

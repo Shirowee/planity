@@ -1,0 +1,1 @@
+{'name': 'Kepler-312 b', 'distance': '2602.0', 'stellar_magnitude': '13.01', 'planet_type': 'Super Earth', 'discovery_year': '2014', 'mass_multiplier': '2.21', 'mass_wrt': 'Earth', 'radius_multiplier': '1.29', 'radius_wrt': 'Earth', 'orbital_radius': '0.031', 'orbital_period': '0.004928131', 'eccentricity': '0.0', 'detection_method': 'Transit'}

@@ -1,0 +1,1 @@
+{'name': 'K2-316 b', 'distance': '367.0', 'stellar_magnitude': '17.14', 'planet_type': 'Super Earth', 'discovery_year': '2020', 'mass_multiplier': '2.33', 'mass_wrt': 'Earth', 'radius_multiplier': '1.33', 'radius_wrt': 'Earth', 'orbital_radius': '0.0147', 'orbital_period': '0.003011636', 'eccentricity': '0.0', 'detection_method': 'Transit'}

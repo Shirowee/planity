@@ -1,0 +1,1 @@
+{'name': 'Kepler-1350 b', 'distance': '1111.0', 'stellar_magnitude': '16.577', 'planet_type': 'Neptune-like', 'discovery_year': '2016', 'mass_multiplier': '6.9', 'mass_wrt': 'Earth', 'radius_multiplier': '0.225', 'radius_wrt': 'Jupiter', 'orbital_radius': '0.0413', 'orbital_period': '0.0123203285', 'eccentricity': '0.0', 'detection_method': 'Transit'}
